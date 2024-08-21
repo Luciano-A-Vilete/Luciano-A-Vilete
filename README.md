@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Engineering at IBM<br>👯 I’m looking to collaborate on Python projects<br>🤝 I’m looking for help with educational projects<br>🌱 I’m currently learning Python, Javascript, Java and C#<br>💬 Ask me about Data Engineering and Cloud<br>⚡ Fun fact I read 100+ books / year
+🔭 I’m currently working on Data Engineering at IBM<br>👯 I’m looking to collaborate on Python projects<br>🤝 I’m looking for help with python projects<br>🌱 I’m currently learning Python, Javascript, Java, and C#<br>💬 Ask me about Data Engineering and Cloud<br>⚡ Fun fact I read 100+ books/year
 
 
 ## 🌐 Socials:
