@@ -72,14 +72,6 @@ Currently focused on **data migration engineering**: moving legacy systems (Orac
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-a-vilete&langs_count=6&layout=compact&theme=dark" />
-</p>
-
----
-
 ## ☁️ Certifications
 
 | Provider | Certification |
